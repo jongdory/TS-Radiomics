@@ -58,7 +58,7 @@ def main():
     dataset = BraTSDataset(
         dataset_path = 'BraTS2021/TrainingData',
         radiomics_path = 'radiomics/shape_features.csv',
-        img_size = 64,
+        img_size = 128,
         resize = (32,32,32)
     )
 
