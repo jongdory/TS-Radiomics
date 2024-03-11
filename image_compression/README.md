@@ -3,7 +3,7 @@
 ## Overview
 
 <div align="center">
-    <img src="../assets/Image_compression.png" alt="pipeline" width="512" />
+    <img src="../assets/Image_compression.png" alt="pipeline" width="60%" />
 </div>
 
 3D Image compression with VQ-GAN for efficient training
