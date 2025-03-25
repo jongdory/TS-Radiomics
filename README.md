@@ -46,9 +46,13 @@ https://pyradiomics.readthedocs.io/en/latest/index.html
 ## Citation
 
 ```
-@InProceedings{Kim_2024_ECCV,
-    author    = {Kim, Jonghun and Park, Hyunjin},
-
+@InProceedings{Kim_2025_WACV,
+    author    = {Kim, Jonghun and Na, Inye and Ko, Eun Sook and Park, Hyunjin},
+    title     = {Tumor Synthesis Conditioned on Radiomics},
+    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {February},
+    year      = {2025},
+    pages     = {3635-3646}
 }
 ```
 
